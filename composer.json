@@ -1,0 +1,14 @@
+{
+    "name": "jlaguna/phppoo",
+    "authors": [
+        {
+            "name": "Javier Laguna"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
